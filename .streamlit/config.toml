@@ -1,0 +1,10 @@
+[server]
+# Tamaño máximo de carga en MB; debe coincidir con MAX_TAMANIO_MB en dqv/config.py (riesgo R04).
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1F3864"
